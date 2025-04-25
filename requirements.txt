@@ -1,3 +1,5 @@
-python
+# Specify Python version (note: some tools ignore this)
+python_version >= 3.12
+
 pandas
 matplotlib
