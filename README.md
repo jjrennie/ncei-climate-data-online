@@ -12,3 +12,4 @@ First off, the entire codebase works in Python 3.12 or higher. In addition to ba
 The "easiest" way is to install these is by installing <a href='https://www.anaconda.com' target="_blank">anaconda</a>, and then applying <a href='https://conda-forge.org/' target="_blank">conda-forge</a>. Afterward, then you can install the above packages. 
 
 ### Launch Right Now With Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jjrennie/ncei-climate-data-online/HEAD?urlpath=%2Fdoc%2Ftree%2Fnoaa-cdo-api.ipynb)
